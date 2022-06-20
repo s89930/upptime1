@@ -76,7 +76,7 @@
     "url": "https://www.ncu.edu.tw/tw/",
     "icon": "https://favicons.githubusercontent.com/www.ncu.edu.tw",
     "slug": "ncu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 2575,
     "timeMonth": 2511,
     "timeYear": 2511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-20": 0
+    }
   },
   {
     "name": "failed",
